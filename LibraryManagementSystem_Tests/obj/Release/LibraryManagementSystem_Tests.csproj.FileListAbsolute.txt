@@ -1,0 +1,17 @@
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\LibraryManagementSystem_Tests.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\LibraryManagementSystem_Tests.pdb
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\LibraryManagementSystem.exe
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\LibraryManagementSystem.pdb
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\LibraryManagementSystem.exe.config
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\obj\Release\LibraryManagementSystem_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\obj\Release\LibraryManagementSystem_Tests.dll
+C:\Users\Gary\Documents\dbs\oop\ca\LibraryManagementSystem\LibraryManagementSystem_Tests\obj\Release\LibraryManagementSystem_Tests.pdb
